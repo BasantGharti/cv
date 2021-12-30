@@ -1,0 +1,37 @@
+
+body{
+  background-color: #eee8aa ;
+}
+img{
+  border-radius: 50%;
+}
+hr{
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  border-style: dotted none none;
+  border-width: 4px;
+  border-color: grey;
+  height: 0px;
+  width: 10%;
+}
+thead{
+  background-color: green;
+}
+h1{
+  color:#344CB7;
+}
+h3{
+  color: #0B4619;
+
+}
+
+fieldset{
+  width: 30%;
+  background-color: #eeeeee;
+}
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+  font-size: 20px;
+}
